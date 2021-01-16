@@ -3,5 +3,5 @@ I've made this project as a part of my internship with The Sparks Foundation und
 ●	As a security/defense analyst, try to ﬁnd out the hot zone of terrorism.
 ●	What all security issues and insights you can derive by EDA?
 
-This dataset contains a lot of features, so you can use the codebook to derive meaning out of those feature names
+This dataset contains a lot of features, so you can use the codebook to derive meaning out of those feature names. You can download the codebook from this repository.
 
